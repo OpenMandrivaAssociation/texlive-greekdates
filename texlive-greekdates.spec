@@ -1,6 +1,6 @@
 Name:		texlive-greekdates
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Provides ancient Greek day and month names, dates, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/greekdates
