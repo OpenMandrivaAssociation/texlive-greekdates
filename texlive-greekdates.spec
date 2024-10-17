@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Provides ancient Greek day and month names, dates, etc
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/greekdates
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/greekdates
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/greekdates.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/greekdates.doc.r%{version}.tar.xz
